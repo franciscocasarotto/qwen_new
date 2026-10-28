@@ -1,0 +1,118 @@
+[
+ {
+  "titulo": "Especialista FinOps Cloud",
+  "empresa": "Fintech Andina",
+  "local": "Lima, Peru (Remoto)",
+  "data": "2026-10-26",
+  "link": "https://pe.indeed.com/viewjob?jk=DDD444",
+  "pais": "PE",
+  "eixo": "indeed-import",
+  "descricao": "Programa de FinOps, governança de costo, otimização Azure e AWS, P&L de TI, comitê executivo. Español obligatorio, inglés no requerido.",
+  "modo": "Remoto (a confirmar)",
+  "_fonte": "Indeed",
+  "_raw_desc_len": 135,
+  "_pts": 52,
+  "_bonus": 3,
+  "_hits": [
+   [
+    "finops",
+    20
+   ],
+   [
+    "azure",
+    6
+   ],
+   [
+    "aws",
+    6
+   ],
+   [
+    "governan",
+    5
+   ],
+   [
+    "cloud",
+    5
+   ],
+   [
+    "costo",
+    4
+   ],
+   [
+    "otimiz",
+    3
+   ],
+   [
+    "p&l",
+    3
+   ]
+  ],
+  "_gap_pen": 0,
+  "nota": 99,
+  "_idioma_classe": "MANTER_SEM_MENCION",
+  "_idioma_evidencia": "JD não cita inglês — nenhum filtro aplicado.",
+  "_idioma_remover": false
+ },
+ {
+  "titulo": "Senior Cloud Architect",
+  "empresa": "Global Remote Corp",
+  "local": "Bogotá (Remoto)",
+  "data": "2026-10-24",
+  "link": "https://co.indeed.com/viewjob?jk=BBB222",
+  "pais": "CO",
+  "eixo": "indeed-import",
+  "descricao": "Multi-cloud GCP OCI, Terraform IaC, DataOps Databricks PySpark, DevSecOps. Fluent English required for daily meetings.",
+  "modo": "Remoto (a confirmar)",
+  "_fonte": "Indeed",
+  "_raw_desc_len": 118,
+  "_pts": 56,
+  "_bonus": 3,
+  "_hits": [
+   [
+    "cloud",
+    10
+   ],
+   [
+    "multi-cloud",
+    7
+   ],
+   [
+    "databricks",
+    7
+   ],
+   [
+    "oci",
+    6
+   ],
+   [
+    "dataops",
+    6
+   ],
+   [
+    "gcp",
+    5
+   ],
+   [
+    "pyspark",
+    5
+   ],
+   [
+    "terraform",
+    4
+   ],
+   [
+    "iac",
+    3
+   ],
+   [
+    "spark",
+    3
+   ]
+  ],
+  "_gap_pen": 10,
+  "nota": 25,
+  "_idioma_classe": "REMOVER_INGLES_AVANCADO",
+  "_idioma_evidencia": "Requisito literal de inglês avançado/fluente → “Fluent English required for daily meetings”",
+  "_idioma_remover": true
+ }
+]

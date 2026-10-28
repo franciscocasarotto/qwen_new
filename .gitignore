@@ -1,0 +1,7 @@
+*.log
+__pycache__/
+*.pyc
+.env
+# dados brutos de scraping (regeraveis via pipeline) - descomente se quiser repo leve:
+# remote_latam/*_brutos.json
+# remote_latam/*_descricoes.json
